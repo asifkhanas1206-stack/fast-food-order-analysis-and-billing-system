@@ -1,0 +1,116 @@
+order_id,customer,item_id,qty,payment,delivery_time,day,item_name,category,price,line_total,size
+1001,Hassan,1,1,Online,32.0,Friday,Zinger Burger,Burgers,550,550,Medium
+1001,Hassan,2,1,Online,32.0,Friday,Beef Burger,Burgers,650,650,Medium
+1001,Hassan,9,1,Online,32.0,Friday,Chicken Shawarma,Wraps & Sandwiches,300,300,Small
+1001,Hassan,14,2,Online,32.0,Friday,Ice Cream,Desserts,150,300,Small
+1002,Usman,2,2,Cash,34.0,Friday,Beef Burger,Burgers,650,1300,Medium
+1002,Usman,4,2,Cash,34.0,Friday,Fries,Sides,200,400,Small
+1002,Usman,15,1,Cash,34.0,Friday,Brownie,Desserts,220,220,Small
+1003,Talha,11,2,Card,33.0,Friday,Cola,Drinks,120,240,Small
+1003,Talha,10,2,Card,33.0,Friday,Club Sandwich,Wraps & Sandwiches,500,1000,Medium
+1003,Talha,1,1,Card,33.0,Friday,Zinger Burger,Burgers,550,550,Medium
+1003,Talha,14,1,Card,33.0,Friday,Ice Cream,Desserts,150,150,Small
+1004,Ali,7,2,Card,31.0,Friday,Chicken Pizza,Pizza,1200,2400,Big
+1004,Ali,3,1,Card,30.0,Friday,Chicken Burger,Burgers,450,450,Small
+1005,Hamza,10,2,Cash,29.0,Friday,Club Sandwich,Wraps & Sandwiches,500,1000,Medium
+1006,Maryam,12,1,Cash,26.0,Friday,Orange Juice,Drinks,180,180,Small
+1006,Maryam,2,2,Cash,26.0,Friday,Beef Burger,Burgers,650,1300,Medium
+1006,Maryam,10,1,Cash,26.0,Friday,Club Sandwich,Wraps & Sandwiches,500,500,Medium
+1007,Bilal,8,2,Card,28.0,Friday,Fajita Pizza,Pizza,1300,2600,Big
+1007,Bilal,10,1,Card,28.0,Friday,Club Sandwich,Wraps & Sandwiches,500,500,Medium
+1008,Ayesha,13,1,Cash,26.0,Friday,Mineral Water,Drinks,80,80,Small
+1008,Ayesha,4,2,Cash,26.0,Friday,Fries,Sides,200,400,Small
+1008,Ayesha,2,2,Cash,26.0,Friday,Beef Burger,Burgers,650,1300,Medium
+1008,Ayesha,10,1,Cash,26.0,Friday,Club Sandwich,Wraps & Sandwiches,500,500,Medium
+1009,Omar,2,2,Cash,31.0,Friday,Beef Burger,Burgers,650,1300,Medium
+1010,Fatima,15,2,Cash,32.0,Friday,Brownie,Desserts,220,440,Small
+1010,Fatima,8,1,Cash,32.0,Friday,Fajita Pizza,Pizza,1300,1300,Medium
+1011,Maryam,13,1,Cash,36.0,Friday,Mineral Water,Drinks,80,80,Small
+1011,Maryam,14,3,Cash,36.0,Friday,Ice Cream,Desserts,150,450,Small
+1011,Maryam,6,1,Cash,36.0,Friday,Onion Rings,Sides,250,250,Small
+1012,Hamza,14,1,Cash,39.0,Friday,Ice Cream,Desserts,150,150,Small
+1013,Ayesha,12,3,Cash,36.0,Friday,Orange Juice,Drinks,180,540,Medium
+1014,Ayesha,12,3,Card,39.0,Friday,Orange Juice,Drinks,180,540,Medium
+1014,Ayesha,7,1,Card,39.5,Friday,Chicken Pizza,Pizza,1200,1200,Medium
+1015,Ali,10,2,Online,40.0,Friday,Club Sandwich,Wraps & Sandwiches,500,1000,Medium
+1015,Ali,2,1,Online,40.0,Friday,Beef Burger,Burgers,650,650,Medium
+1016,Usman,4,1,Online,38.0,Friday,Fries,Sides,200,200,Small
+1016,Usman,7,1,Online,38.0,Friday,Chicken Pizza,Pizza,1200,1200,Medium
+1016,Usman,14,2,Online,38.0,Friday,Ice Cream,Desserts,150,300,Small
+1016,Usman,8,2,Online,37.333333333333336,Friday,Fajita Pizza,Pizza,1300,2600,Big
+1017,Zainab,14,3,Cash,36.666666666666664,Friday,Ice Cream,Desserts,150,450,Small
+1017,Zainab,9,2,Cash,36.0,Friday,Chicken Shawarma,Wraps & Sandwiches,300,600,Medium
+1017,Zainab,5,1,Cash,36.0,Friday,Nuggets,Sides,350,350,Small
+1018,Maryam,2,1,Online,35.0,Friday,Beef Burger,Burgers,650,650,Medium
+1018,Maryam,3,1,Online,35.0,Friday,Chicken Burger,Burgers,450,450,Small
+1019,Maryam,3,1,Cash,38.0,Friday,Chicken Burger,Burgers,450,450,Small
+1019,Maryam,5,1,Cash,38.0,Friday,Nuggets,Sides,350,350,Small
+1019,Maryam,14,2,Cash,38.0,Friday,Ice Cream,Desserts,150,300,Small
+1020,Zainab,3,2,Cash,43.0,Friday,Chicken Burger,Burgers,450,900,Medium
+1020,Zainab,12,2,Cash,43.0,Friday,Orange Juice,Drinks,180,360,Small
+1021,Maryam,15,3,Card,39.0,Friday,Brownie,Desserts,220,660,Medium
+1021,Maryam,14,2,Card,39.0,Friday,Ice Cream,Desserts,150,300,Small
+1021,Maryam,13,2,Card,39.0,Friday,Mineral Water,Drinks,80,160,Small
+1022,Fatima,11,1,Cash,36.0,Friday,Cola,Drinks,120,120,Small
+1022,Fatima,7,1,Cash,36.0,Friday,Chicken Pizza,Pizza,1200,1200,Medium
+1022,Fatima,1,1,Cash,36.0,Friday,Zinger Burger,Burgers,550,550,Medium
+1101,Bilal,1,2,Cash,31.0,Saturday,Zinger Burger,Burgers,550,1100,Medium
+1101,Bilal,2,1,Cash,31.0,Saturday,Beef Burger,Burgers,650,650,Medium
+1101,Bilal,15,2,Cash,31.0,Saturday,Brownie,Desserts,220,440,Small
+1102,Ahmed,2,1,Online,36.0,Saturday,Beef Burger,Burgers,650,650,Medium
+1103,Hamza,10,2,Cash,36.0,Saturday,Club Sandwich,Wraps & Sandwiches,500,1000,Medium
+1103,Hamza,6,1,Cash,36.0,Saturday,Onion Rings,Sides,250,250,Small
+1104,Ahmed,8,1,Online,39.0,Saturday,Fajita Pizza,Pizza,1300,1300,Medium
+1104,Ahmed,5,1,Online,39.0,Saturday,Nuggets,Sides,350,350,Small
+1104,Ahmed,2,3,Online,39.0,Saturday,Beef Burger,Burgers,650,1950,Big
+1105,Hassan,3,2,Online,42.0,Saturday,Chicken Burger,Burgers,450,900,Medium
+1105,Hassan,9,1,Online,42.0,Saturday,Chicken Shawarma,Wraps & Sandwiches,300,300,Small
+1105,Hassan,1,1,Online,42.0,Saturday,Zinger Burger,Burgers,550,550,Medium
+1105,Hassan,4,3,Online,42.0,Saturday,Fries,Sides,200,600,Medium
+1106,Zainab,11,1,Online,46.0,Saturday,Cola,Drinks,120,120,Small
+1106,Zainab,14,3,Online,46.0,Saturday,Ice Cream,Desserts,150,450,Small
+1107,Talha,6,1,Cash,46.5,Saturday,Onion Rings,Sides,250,250,Small
+1107,Talha,13,2,Cash,47.0,Saturday,Mineral Water,Drinks,80,160,Small
+1108,Zainab,4,1,Online,48.0,Saturday,Fries,Sides,200,200,Small
+1108,Zainab,10,2,Online,48.0,Saturday,Club Sandwich,Wraps & Sandwiches,500,1000,Medium
+1108,Zainab,13,3,Online,48.0,Saturday,Mineral Water,Drinks,80,240,Small
+1108,Zainab,15,1,Online,48.0,Saturday,Brownie,Desserts,220,220,Small
+1109,Usman,1,2,Card,49.0,Saturday,Zinger Burger,Burgers,550,1100,Medium
+1109,Usman,15,1,Card,49.0,Saturday,Brownie,Desserts,220,220,Small
+1109,Usman,13,1,Card,49.0,Saturday,Mineral Water,Drinks,80,80,Small
+1109,Usman,5,3,Card,49.0,Saturday,Nuggets,Sides,350,1050,Medium
+1110,Hamza,6,1,Online,52.0,Saturday,Onion Rings,Sides,250,250,Small
+1110,Hamza,15,1,Online,52.0,Saturday,Brownie,Desserts,220,220,Small
+1110,Hamza,2,2,Online,52.0,Saturday,Beef Burger,Burgers,650,1300,Medium
+1110,Hamza,4,1,Online,52.0,Saturday,Fries,Sides,200,200,Small
+1111,Hassan,14,3,Cash,55.0,Saturday,Ice Cream,Desserts,150,450,Small
+1111,Hassan,1,1,Cash,55.0,Saturday,Zinger Burger,Burgers,550,550,Medium
+1111,Hassan,8,3,Cash,55.0,Saturday,Fajita Pizza,Pizza,1300,3900,Big
+1112,Ahmed,13,1,Online,54.0,Saturday,Mineral Water,Drinks,80,80,Small
+1112,Ahmed,12,2,Online,53.0,Saturday,Orange Juice,Drinks,180,360,Small
+1112,Ahmed,15,1,Cash,52.0,Saturday,Brownie,Desserts,220,220,Small
+1113,Fatima,13,3,Online,53.0,Saturday,Mineral Water,Drinks,80,240,Small
+1114,Fatima,3,1,Cash,50.0,Saturday,Chicken Burger,Burgers,450,450,Small
+1114,Fatima,15,2,Cash,50.0,Saturday,Brownie,Desserts,220,440,Small
+1114,Fatima,14,2,Cash,50.0,Saturday,Ice Cream,Desserts,150,300,Small
+1114,Fatima,1,3,Cash,50.0,Saturday,Zinger Burger,Burgers,550,1650,Big
+1115,Sara,11,2,Card,55.0,Saturday,Cola,Drinks,120,240,Small
+1115,Sara,6,2,Card,55.0,Saturday,Onion Rings,Sides,250,500,Medium
+1115,Sara,3,1,Card,55.0,Saturday,Chicken Burger,Burgers,450,450,Small
+1116,Ali,12,1,Cash,52.0,Saturday,Orange Juice,Drinks,180,180,Small
+1116,Ali,3,1,Cash,52.0,Saturday,Chicken Burger,Burgers,450,450,Small
+1116,Ali,7,1,Cash,52.0,Saturday,Chicken Pizza,Pizza,1200,1200,Medium
+1117,Ayesha,13,1,Cash,55.0,Saturday,Mineral Water,Drinks,80,80,Small
+1117,Ayesha,10,1,Cash,55.0,Saturday,Club Sandwich,Wraps & Sandwiches,500,500,Medium
+1118,Zainab,15,3,Cash,53.0,Saturday,Brownie,Desserts,220,660,Medium
+1119,Hassan,7,1,Online,55.0,Saturday,Chicken Pizza,Pizza,1200,1200,Medium
+1119,Hassan,14,2,Online,55.0,Saturday,Ice Cream,Desserts,150,300,Small
+1119,Hassan,9,1,Cash,55.0,Saturday,Chicken Shawarma,Wraps & Sandwiches,300,300,Small
+1120,Zainab,10,1,Card,55.0,Saturday,Club Sandwich,Wraps & Sandwiches,500,500,Medium
+1120,Zainab,1,1,Card,55.0,Saturday,Zinger Burger,Burgers,550,550,Medium
+1121,Sara,1,2,Cash,52.0,Saturday,Zinger Burger,Burgers,550,1100,Medium
+1121,Sara,6,2,Cash,52.0,Saturday,Onion Rings,Sides,250,500,Medium
+1121,Sara,11,2,Cash,50.5,Saturday,Cola,Drinks,120,240,Small
+1122,Bilal,1,1,Online,49.0,Saturday,Zinger Burger,Burgers,550,550,Medium
+1122,Bilal,4,1,Online,49.0,Saturday,Fries,Sides,200,200,Small
+1122,Bilal,14,1,Online,49.0,Saturday,Ice Cream,Desserts,150,150,Small
